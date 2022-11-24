@@ -31,7 +31,7 @@ PCB
 
 | |
 |---|
-| ![pcb](img/pcb-mosquite_v20_clone.png) |
+| ![pcb](img/pcb-mosquito_v20_clone.png) |
 
 BOM
 ---
